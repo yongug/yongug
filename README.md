@@ -6,7 +6,7 @@
 
 <a href="https://github.com/yongug"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yongug&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="yongug's github stats" /></a>
 
-<a href="https://github.com/yongug"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/yongug"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongug&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 
